@@ -1,0 +1,8 @@
+src/
+├── components/
+│   ├── ImageGallery.js
+│   ├── ImageItem.js
+│   └── Modal.js
+├── App.js
+├── App.css
+└── index.js
